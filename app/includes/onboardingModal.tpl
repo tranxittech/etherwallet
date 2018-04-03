@@ -10,7 +10,7 @@
         <article class="onboarding__modal" ng-show="showOnboardSlide==1">
           <h3 class="onboarding__title">
             <span translate="ONBOARD_welcome_title">
-              Welcome to MyEtherWallet.com
+              Welcome to Welcome to Welcome to MyEtherWallet.com
             </span>
             <br />
             <small translate="ONBOARD_welcome_content__3">
@@ -53,7 +53,7 @@
           <div class="onboarding__buttons text-center">
             <a ng-click="setOnboardStatus(2)" class="btn btn-primary">
               <span translate="ONBOARD_bank_title">
-                MyEtherWallet is not a Bank
+                Vicecoinwallet is not a Bank
               </span>
             </a>
           </div>
@@ -62,7 +62,7 @@
 
         <article class="onboarding__modal" ng-show="showOnboardSlide==2">
           <h3 class="onboarding__title" translate="ONBOARD_bank_title">
-            MyEtherWallet is not a Bank
+            Vicecoinwallet is not a Bank
           </h3>
           <section class="row row--flex">
             <div class="col-xs-12 col-sm-4 onboarding__image">
@@ -177,7 +177,7 @@
                   It is made up of all the individual transactions sent from MyEtherWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.
                 </li>
                 <li translate="ONBOARD_blockchain_content__5">
-                  When you see your balance on MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.
+                  When you see your balance on Welcome to MyEtherWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.
                 </li>
                 <li translate="ONBOARD_blockchain_content__6">
                    Again: <strong>we are not a bank</strong>.
@@ -323,7 +323,7 @@
                   Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) or the [MyEtherWallet Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm) to block malicious websites.
                 </li>
                 <li translate="ONBOARD_secure_1_content__3">
-                  Always check the URL: `https://www.myetherwallet.com`.
+                  Always check the URL: `https://www.Welcome to MyEtherWallet.com`.
                 </li>
                 <li translate="ONBOARD_secure_1_content__4">
                   Always make sure the URL bar has `MYETHERWALLET LLC` in green.

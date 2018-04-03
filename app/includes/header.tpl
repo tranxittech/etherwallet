@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>MyEtherWallet.com</title>
+<title>ViceCoinWallet.com</title>
 <meta property="og:title" content="MyEtherWallet.com: Your Key to Ethereum">
 <meta property="og:site_name" content="MyEtherWallet.com: Your Key to Ethereum">
 <meta name="twitter:title" content="MyEtherWallet.com: Your Key to Ethereum">
@@ -21,11 +21,11 @@
 <meta name="googlebot" content="index,follow">
 <meta name="google-site-verification" content="IpChQ00NYUQuNs_7Xs6xlnSdzalOlTUYbBsr8f7OpvM" />
 <link href="images/fav/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
-<link href="images/fav/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
-<link href="images/fav/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
+<link href="images/fav/apple-touch-icon.png" rel="icon" type="image/png" sizes="32x32">
+<link href="images/fav/apple-touch-icon.png" rel="icon" type="image/png" sizes="16x16">
 <link href="images/fav/manifest.json" rel="manifest">
 <link href="images/fav/safari-pinned-tab.svg" rel="mask-icon" color="#2f99b0">
-<link href="images/fav/favicon.ico" rel="shortcut icon">
+<link href="images/fav/apple-touch-icon.png" rel="shortcut icon">
 <meta name="apple-mobile-web-app-title" content="MyEtherWallet &middot; Your Key to Ethereum">
 <meta name="application-name" content="MyEtherWallet">
 <meta name="msapplication-config" content="images/fav/browserconfig.xml">
@@ -80,7 +80,7 @@
     <div class="container">
       DON'T GET PHISHED, please! 🎣 Thank you! 🤗
       <br />
-      1. BOOKMARK <a href="https://www.myetherwallet.com"> MYETHERWALLET.COM </a>
+      1. BOOKMARK <a href="https://www.myetherwallet.com"> VICECOINWALLET.COM </a>
       <span class="hidden-xs">
         &nbsp;&nbsp;&nbsp;&nbsp;
         2. INSTALL <a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer">EAL</a>
@@ -97,7 +97,7 @@
   <section class="container">
     @@if (site === 'mew' ) {
       <a class="brand" href="/" aria-label="Go to homepage">
-        <img src="images/logo-myetherwallet.svg"   height="64px" width="245px" alt="MyEtherWallet" />
+        <img src="images/logo-myetherwallet.png"   height="64px" width="245px" alt="MyEtherWallet" />
         <p class="small visible-xs">3.21.03</p>
       </a>
     }
