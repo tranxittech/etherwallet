@@ -4,17 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <title>ViceCoinWallet.com</title>
-<meta property="og:title" content="MyEtherWallet.com: Your Key to Ethereum">
-<meta property="og:site_name" content="MyEtherWallet.com: Your Key to Ethereum">
-<meta name="twitter:title" content="MyEtherWallet.com: Your Key to Ethereum">
-<meta name="apple-mobile-web-app-title" content="MyEtherWallet.com: Your Key to Ethereum">
-<link href="https://www.myetherwallet.com" rel="canonical">
-<meta content="https://www.myetherwallet.com" property="og:url">
-<meta content="https://www.myetherwallet.com" name="twitter:url">
+<meta property="og:title" content="ViceCoinWallet.com: Your Key to Ethereum">
+<meta property="og:site_name" content="ViceCoinWallet.com: Your Key to Ethereum">
+<meta name="twitter:title" content="ViceCoinWallet.com: Your Key to Ethereum">
+<meta name="apple-mobile-web-app-title" content="ViceCoinWallet.com: Your Key to Ethereum">
+<link href="https://www.ViceCoinWallet.com" rel="canonical">
+<meta content="https://www.ViceCoinWallet.com" property="og:url">
+<meta content="https://www.ViceCoinWallet.com" name="twitter:url">
 <link rel="stylesheet" href="css/etherwallet-master.min.css">
 <script type="text/javascript" src="js/etherwallet-static.min.js"></script>
 <script type="text/javascript" src="js/etherwallet-master.js"></script>
-<meta name="description" content="MyEtherWallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.">
+<meta name="description" content="ViceCoinWallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.">
 <meta property="og:description"  content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="twitter:description" content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="robots" content="index,follow">
@@ -26,13 +26,13 @@
 <link href="images/fav/manifest.json" rel="manifest">
 <link href="images/fav/safari-pinned-tab.svg" rel="mask-icon" color="#2f99b0">
 <link href="images/fav/apple-touch-icon.png" rel="shortcut icon">
-<meta name="apple-mobile-web-app-title" content="MyEtherWallet &middot; Your Key to Ethereum">
-<meta name="application-name" content="MyEtherWallet">
+<meta name="apple-mobile-web-app-title" content="ViceCoinWallet &middot; Your Key to Ethereum">
+<meta name="application-name" content="ViceCoinWallet">
 <meta name="msapplication-config" content="images/fav/browserconfig.xml">
 <meta name="theme-color" content="#1d6986">
 <meta name="apple-mobile-web-app-status-bar-style" content="#1d6986">
-<meta property="og:url" content="https://www.myetherwallet.com" />
-<meta property="og:title" content="MyEtherWallet.com  &middot; Your Key to Ethereum" />
+<meta property="og:url" content="https://www.ViceCoinWallet.com" />
+<meta property="og:title" content="ViceCoinWallet.com  &middot; Your Key to Ethereum" />
 <meta property="og:type" content="website">
 <meta property="og:image" content="/images/myetherwallet-logo-banner.png" />
 <meta property="og:image" content="/images/myetherwallet-logo.png" />
@@ -46,27 +46,27 @@
 {
 "@context": "http://schema.org",
 "@type" : "Organization",
-"name" : "MyEtherWallet",
-"legalName" : "MyEtherWallet LLC",
-"url" : "https://www.myetherwallet.com/",
+"name" : "vicecoinwallet",
+"legalName" : "vicecoinwallet LLC",
+"url" : "https://www.vicecoinwallet.com/",
 "contactPoint" : [{
   "@type" : "ContactPoint",
-  "email" : "support@myetherwallet.com",
-  "url"   : "https://myetherwallet.com",
+  "email" : "support@vicecoinwallet.com",
+  "url"   : "https://vicecoinwallet.com",
   "contactType" : "customer service"
 }],
-"logo" : "https://www.myetherwallet.com/images/myetherwallet-logo.png",
-"description": "MyEtherWallet.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
+"logo" : "https://www.vicecoinwallet.com/images/vicecoinwallet-logo.png",
+"description": "vicecoinwallet.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
 "sameAs" : [
-  "https://www.myetherwallet.com/",
-  "https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm",
-  "https://www.facebook.com/MyEtherWallet/",
-  "https://twitter.com/myetherwallet",
-  "https://medium.com/@myetherwallet",
-  "https://myetherwallet.github.io/knowledge-base/",
+  "https://www.vicecoinwallet.com/",
+  "https://chrome.google.com/webstore/detail/vicecoinwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm",
+  "https://www.facebook.com/vicecoinwallet/",
+  "https://twitter.com/vicecoinwallet",
+  "https://medium.com/@vicecoinwallet",
+  "https://vicecoinwallet.github.io/knowledge-base/",
   "https://github.com/kvhnuke/etherwallet",
-  "https://github.com/MyEtherWallet",
-  "https://kvhnuke.github.io/etherwallet/","https://myetherwallet.slack.com/"
+  "https://github.com/vicecoinwallet",
+  "https://kvhnuke.github.io/etherwallet/","https://vicecoinwallet.slack.com/"
 ]
 }
 </script>
@@ -80,12 +80,12 @@
     <div class="container">
       DON'T GET PHISHED, please! 🎣 Thank you! 🤗
       <br />
-      1. BOOKMARK <a href="https://www.myetherwallet.com"> VICECOINWALLET.COM </a>
+      1. BOOKMARK <a href="https://www.ViceCoinWallet.com"> VICECOINWALLET.COM </a>
       <span class="hidden-xs">
         &nbsp;&nbsp;&nbsp;&nbsp;
         2. INSTALL <a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer">EAL</a>
         or
-        <a href="https://myetherwallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html" target="_blank" rel="noopener noreferrer">MetaMask</a>
+        <a href="https://ViceCoinWallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html" target="_blank" rel="noopener noreferrer">MetaMask</a>
         or
         <a href="https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige" target="_blank" rel="noopener noreferrer">Cryptonite</a>
       </span>

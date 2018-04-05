@@ -98,7 +98,7 @@
             <td translate="OFFLINE_Step2_Label_1">
               To Address
             </td>
-            <td>
+            <td
               <a href="https://etherscan.io/address/{{ txInfo.to }}" target="_blank" rel="noopener noreferrer">
                 {{ txInfo.to }}
               </a>
@@ -115,7 +115,7 @@
           <tr>
             <td>
               <a class="account-help-icon"
-                 href="https://myetherwallet.github.io/knowledge-base/transactions/what-is-nonce.html"
+                 href="https://vicecoinwallet.github.io/knowledge-base/transactions/what-is-nonce.html"
                  target="_blank"
                  rel="noopener noreferrer">
                    <img src="images/icon-help.svg" class="help-icon" />
@@ -132,7 +132,7 @@
           <tr>
             <td>
               <a class="account-help-icon"
-                 href="https://myetherwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html"
+                 href="https://vicecoinwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html"
                  target="_blank"
                  rel="noopener noreferrer">
                     <img src="images/icon-help.svg" class="help-icon" />
@@ -149,7 +149,7 @@
           <tr>
             <td>
               <a class="account-help-icon"
-                 href="https://myetherwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html"
+                 href="https://vicecoinwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html"
                  target="_blank"
                  rel="noopener noreferrer">
                    <img src="images/icon-help.svg" class="help-icon" />
@@ -170,7 +170,7 @@
           <tr>
             <td>
               <a class="account-help-icon"
-                 href="https://myetherwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html"
+                 href="https://vicecoinwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html"
                  target="_blank"
                  rel="noopener noreferrer">
                    <img src="images/icon-help.svg" class="help-icon" />
