@@ -61,7 +61,7 @@ var globalService = function($http, $httpParamSerializerJQLike) {
     id:7,
     name: "NAV_ENS",
     url: "ens",
-    mew: true,
+    mew: false,
     cx: true
   },
   domainsale: {
@@ -114,5 +114,7 @@ var globalService = function($http, $httpParamSerializerJQLike) {
 }
 
 module.exports = globalService
+
+
 
 
