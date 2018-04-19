@@ -60,7 +60,7 @@ u2f.ErrorCodes = {
     'OTHER_ERROR': 1,
     'BAD_REQUEST': 2,
     'CONFIGURATION_UNSUPPORTED': 3,
-    'DEVICE_INELIGIBLE': 4,
+    'DEvice_INELIGIBLE': 4,
     'TIMEOUT': 5
 };
 

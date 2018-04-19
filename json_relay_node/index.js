@@ -3,7 +3,7 @@ var bodyParser = require('body-parser');
 var response = require('./response');
 var wait = require('wait.for');
 var app = express();
-var phishingSites = ["myetherwallet.io", "ether-wall.com"];
+var viceshingSites = ["myetherwallet.io", "ether-wall.com"];
 Array.prototype.contains = function(str) {
     if(str === undefined) return false;
 	for (var i=0;i<this.length;i++) if (str.indexOf(this[i]) > -1) return true;
@@ -24,7 +24,7 @@ var handleRequest = function(req, res) {
 	referer = req.header('Referer');
 	req = req.body;
 	if (req["isClassic"] === undefined || req["isClassic"] == "false") req["isClassic"] = false;
-	if (phishingSites.contains(referer)) res.write(response.getErrorResponse("This is a phishing site, move your funds now"));
+	if (viceshingSites.contains(referer)) res.write(response.getErrorResponse("This is a viceshing site, move your funds now"));
 	else if ("balance" in req) res.write(response.getBalance(req["balance"], req["isClassic"]));
 	else if ("rawtx" in req) res.write(response.sendRawTransaction(req["rawtx"], req["isClassic"]));
 	else if ("txdata" in req) res.write(response.getTransactionData(req["txdata"], req["isClassic"]));

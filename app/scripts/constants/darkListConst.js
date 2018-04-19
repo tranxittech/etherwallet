@@ -48,22 +48,22 @@ const darklist = function() {
 		},
 		{
 			address: "0xBa83e9Ce38b10522e3d6061A12779B7526839eda",
-			comment: "scambot phishers. did not 404.",
+			comment: "scambot viceshers. did not 404.",
 			date: "2018-03-12"
 		},
 		{
 			address: "0xBa83e9Ce38b10522e3d6061A12779B7526839eda",
-			comment: "scambot phishers. did not 404.",
+			comment: "scambot viceshers. did not 404.",
 			date: "2018-03-12"
 		},
 		{
 			address: "0xf73EF0650415656B51Be39bD5D37CF5cE03f4033",
-			comment: "scambot phishers. did not 404.",
+			comment: "scambot viceshers. did not 404.",
 			date: "2018-03-12"
 		},
 		{
 			address: "0xedf202629bb7e9f72d4c62c325d198513fa7a3d3",
-			comment: "scambot phishers. did not 404.",
+			comment: "scambot viceshers. did not 404.",
 			date: "2018-03-12"
 		},
 		{
@@ -1027,7 +1027,7 @@ const darklist = function() {
 		{
 			address: "0xac3800002e45ed2e1a55dedfa2aca137f6dba61e",
 			comment:
-				"Etherzero domain, but nothing supporting it being the legit domain. Also hosted on a server used before to host other phishing campaigns. Asking for your chain code.",
+				"Etherzero domain, but nothing supporting it being the legit domain. Also hosted on a server used before to host other viceshing campaigns. Asking for your chain code.",
 			date: "2018-03-12"
 		},
 		{
@@ -1063,7 +1063,7 @@ const darklist = function() {
 		{
 			address: "0x0C8b0b3e963beCf16cda410fe1Eb4B5D64022C94",
 			comment:
-				"Fake zeepln.io phishing for login details and fake crowdsale address",
+				"Fake zeepln.io viceshing for login details and fake crowdsale address",
 			date: "2018-03-12"
 		},
 		{
@@ -1073,12 +1073,12 @@ const darklist = function() {
 		},
 		{
 			address: "0x6d64486A5C99139b53239297E0b653D196d05777",
-			comment: "Fake Wanchain crowdsale site and phishing for private keys",
+			comment: "Fake Wanchain crowdsale site and viceshing for private keys",
 			date: "2018-03-12"
 		},
 		{
 			address: "0xcc66ea7ef61a67df02afb18706c68a5f30b22300",
-			comment: "Fake INT airdrop phishing for private keys",
+			comment: "Fake INT airdrop viceshing for private keys",
 			date: "2018-03-12"
 		},
 		{
@@ -1188,7 +1188,7 @@ const darklist = function() {
 		},
 		{
 			address: "0xbb53be0690ae7256833099a1f01125eb33445692",
-			comment: "Fake EtherDelta Andriod app, phishing for private keys",
+			comment: "Fake EtherDelta Andriod app, viceshing for private keys",
 			date: "2018-03-12"
 		},
 		{
@@ -1203,12 +1203,12 @@ const darklist = function() {
 		},
 		{
 			address: "0x545f5E5c54d8ac72AF1c7DE8c070387b73841A24",
-			comment: "Fake Isot airdrop site, phishing for private keys",
+			comment: "Fake Isot airdrop site, viceshing for private keys",
 			date: "2018-03-12"
 		},
 		{
 			address: "0x0059b14e35daB1b4EEe1e2926C7A5660dA66F747",
-			comment: "Fake Isot airdrop site, phishing for private keys",
+			comment: "Fake Isot airdrop site, viceshing for private keys",
 			date: "2018-03-12"
 		},
 		{
@@ -1283,12 +1283,12 @@ const darklist = function() {
 		},
 		{
 			address: "0x0059b14e35daB1b4EEe1e2926C7A5660dA66F747",
-			comment: "Fake Aion airdrop site phishing for private keys",
+			comment: "Fake Aion airdrop site viceshing for private keys",
 			date: "2018-03-12"
 		},
 		{
 			address: "0xd9cd7461f960e56364a294f124aac77b25e2b784",
-			comment: "Fake Data Token airdrop site phishing for private keys",
+			comment: "Fake Data Token airdrop site viceshing for private keys",
 			date: "2018-03-12"
 		},
 		{
@@ -1771,7 +1771,7 @@ const darklist = function() {
 		{
 			address: "0xBc66E774CE25000950786241b8c5EE3275311Bd7",
 			comment:
-				"Fake Nucleus airdrop site phishing for private keys. suspected address 0xBc66E774CE25000950786241b8c5EE3275311Bd7",
+				"Fake Nucleus airdrop site viceshing for private keys. suspected address 0xBc66E774CE25000950786241b8c5EE3275311Bd7",
 			date: "2018-03-12"
 		},
 		{
@@ -1807,7 +1807,7 @@ const darklist = function() {
 		{
 			address: "0x63cfa80bbbee233a4257857dcdc9d78cbc8efe37",
 			comment:
-				"Fake Polymath airdrop phishing for private keys. Suspected address.",
+				"Fake Polymath airdrop viceshing for private keys. Suspected address.",
 			date: "2018-03-12"
 		},
 		{
@@ -1818,7 +1818,7 @@ const darklist = function() {
 		{
 			address: "0xF2dcFa51F83e41c0e988477f939c7A5e5b9a6905",
 			comment:
-				"Fake Docai crowdsale site - see https://github.com/MetaMask/eth-phishing-detect/issues/1078",
+				"Fake Docai crowdsale site - see https://github.com/MetaMask/eth-viceshing-detect/issues/1078",
 			date: "2018-03-12"
 		},
 		{
@@ -2570,61 +2570,61 @@ const darklist = function() {
 		},
 		{
 			address: "0xd1091F9c7bb48651EDb17d255b2824de0EbD2074",
-			comment: "Phishing - Fake address used in Ocean Protocol Pre-launch",
+			comment: "viceshing - Fake address used in Ocean Protocol Pre-launch",
 			date: "2018-03-07"
 		},
 		{
 			address: "0x62e8aaffb7568cec94b0e15e7b4d859302d65ee9",
 			comment:
-				"Phishing - Fake Dadi token email blast giving out a fake crowdsale address",
+				"viceshing - Fake Dadi token email blast giving out a fake crowdsale address",
 			date: "2018-02-01"
 		},
 		{
 			address: "0xdf1ec2e44a8b1774b068ecfc5ef1c937a86baf3e",
 			comment:
-				"Phishing - Fake Beetoken email blast after Beetoken email directory was hacked.",
+				"viceshing - Fake Beetoken email blast after Beetoken email directory was hacked.",
 			date: "2018-01-31"
 		},
 		{
 			address: "0x2a6d8021861f27ab992572d8689017b7a83c989d",
 			comment:
-				"Phishing - Fake Beetoken email blast after Beetoken email directory was hacked.",
+				"viceshing - Fake Beetoken email blast after Beetoken email directory was hacked.",
 			date: "2018-01-31"
 		},
 		{
 			address: "0x88436C2A2f427F2aa641dFd8c6763facf2Bad7bf",
 			comment:
-				"Phishing - Fake telegram pre ICO - ico-telegram.io/tokensale/index.html ",
+				"viceshing - Fake telegram pre ICO - ico-telegram.io/tokensale/index.html ",
 			date: "2018-01-28"
 		},
 		{
 			address: "0xF855fEE50A8915634a105385cb6cB9e442D15457",
-			comment: "Phishing - Fake singularitynet token sale",
+			comment: "viceshing - Fake singularitynet token sale",
 			date: "2017-12-25"
 		},
 		{
 			address: "0xFE68DE56A07cD3AF0Ec40c22b0193115eCdD0501",
-			comment: "Phishing - Fake singularitynet token sale",
+			comment: "viceshing - Fake singularitynet token sale",
 			date: "2017-12-25"
 		},
 		{
 			address: "0xcda5dd8e13fdae006b270769b1a18fa6c5524ce0",
-			comment: "Phishing - Fake ETHLend tokensales",
+			comment: "viceshing - Fake ETHLend tokensales",
 			date: "2017-11-28"
 		},
 		{
 			address: "0x16112015d50fac2d084e096feea0863800517f94",
-			comment: "Phishing - Flixxo copycat",
+			comment: "viceshing - Flixxo copycat",
 			date: "2017-10-30"
 		},
 		{
 			address: "0x394f59e83D88469D3Ca3B8da15F31B73f27eadA7",
-			comment: "Phishing - Flixxo copycat",
+			comment: "viceshing - Flixxo copycat",
 			date: "2017-10-30"
 		},
 		{
 			address: "0x6721b09f4fB6Fe69a14aDD6d1f2C1b94562e7801",
-			comment: "MEW Phishing - xn--metherwallet-c06f.com",
+			comment: "MEW viceshing - xn--metherwallet-c06f.com",
 			date: "2017-10-26"
 		},
 		{
@@ -2679,7 +2679,7 @@ const darklist = function() {
 		},
 		{
 			address: "0x434E9F6A1ac134FDa3E7cEb3fd67c3D9B3518737",
-			comment: "Fake Chronobank crowdsale - Slack dm by phisher",
+			comment: "Fake Chronobank crowdsale - Slack dm by vicesher",
 			date: "2017-09-24"
 		},
 		{
@@ -2689,7 +2689,7 @@ const darklist = function() {
 		},
 		{
 			address: "0x3de08B35c0e7F255F37a5dace9BD8eb78e99e985",
-			comment: "Fake Aragon crowdsale - Slack dm by phisher",
+			comment: "Fake Aragon crowdsale - Slack dm by vicesher",
 			date: "2017-09-24"
 		},
 		{
@@ -2699,7 +2699,7 @@ const darklist = function() {
 		},
 		{
 			address: "0x560644F0980300B31DCde7B5F78d0d53e375371F",
-			comment: "Fake Chronobank.io crowdsale site - Slack dm by phisher",
+			comment: "Fake Chronobank.io crowdsale site - Slack dm by vicesher",
 			date: "2017-09-21"
 		},
 		{
@@ -2871,29 +2871,29 @@ const darklist = function() {
 		},
 		{
 			address: "0x3fcb2d173389b7cd8079ef8b439dbd92e7e0ae28",
-			comment: "Atlant phishing - atlant.solutions",
+			comment: "Atlant viceshing - atlant.solutions",
 			date: "2017-09-06"
 		},
 		{
 			address: "0x3fcb2d173389b7cd8079ef8b439dbd92e7e0ae28",
-			comment: "Aventus phishing - aventus.group",
+			comment: "Aventus viceshing - aventus.group",
 			date: "2017-09-06"
 		},
 		{
 			address: "0xc5d65deff5d1373f8b19aa8be528e9c3599013ba",
-			comment: "KICKICO phishing - kickico.co",
+			comment: "KICKICO viceshing - kickico.co",
 			date: "2017-08-29"
 		},
 		{
 			address: "0xc38d14bf89e0001260bb349a006d7e491e5f43ad",
 			comment:
-				"Cloned decentraland site, phishing for ETH post ICO. - decentraland.pro",
+				"Cloned decentraland site, viceshing for ETH post ICO. - decentraland.pro",
 			date: "2017-08-18"
 		},
 		{
 			address: "0x3B0009071A0a9983E9AAb537FD8c9ad478310Aeb",
 			comment:
-				"Cloned decentraland site, phishing for ETH post ICO. - decentraland.pro",
+				"Cloned decentraland site, viceshing for ETH post ICO. - decentraland.pro",
 			date: "2017-08-18"
 		},
 		{
@@ -2981,82 +2981,82 @@ const darklist = function() {
 		},
 		{
 			address: "0x41dfc5797c8043a2f4f7e7abf71291064e091fc6",
-			comment: "PHISH_Scambots_1",
+			comment: "viceSH_Scambots_1",
 			date: "7/18/17"
 		},
 		{
 			address: "0xc57f1148855e67763a694f7f2c0e68230adc686e",
-			comment: "PHISH_Scambots_2",
+			comment: "viceSH_Scambots_2",
 			date: "7/18/17"
 		},
 		{
 			address: "0x42c5459911ae51d1d005cbe39749bd8d8e533c22",
-			comment: "PHISH_Scambots_3",
+			comment: "viceSH_Scambots_3",
 			date: "7/18/17"
 		},
 		{
 			address: "0x5b67a30108e1a5f3d5a809d57e76cd16fdfde7a7",
-			comment: "PHISH_Scambots_4",
+			comment: "viceSH_Scambots_4",
 			date: "7/18/17"
 		},
 		{
 			address: "0xba83e9ce38b10522e3d6061a12779b7526839eda",
-			comment: "PHISH_Scambots_5",
+			comment: "viceSH_Scambots_5",
 			date: "7/18/17"
 		},
 		{
 			address: "0xaca33c43bd8deac8e1d144baa51fe9c7dd7b010f",
-			comment: "PHISH_Scambots_6",
+			comment: "viceSH_Scambots_6",
 			date: "7/18/17"
 		},
 		{
 			address: "0xa4fcbc4a0508b11d5ef34d41d72020a5def1c712",
-			comment: "PHISH_Scambots_7",
+			comment: "viceSH_Scambots_7",
 			date: "7/18/17"
 		},
 		{
 			address: "0x22eb0b23e5ad7ef827aff13b2e40ed63e277844e",
-			comment: "PHISH_Scambots_8",
+			comment: "viceSH_Scambots_8",
 			date: "7/18/17"
 		},
 		{
 			address: "0x7822b7b190604eaeb4dcaabd2dd5e1daafcb9d46",
-			comment: "PHISH_Scambots_9",
+			comment: "viceSH_Scambots_9",
 			date: "7/18/17"
 		},
 		{
 			address: "0x07425527076b4f73b5616716dda54fb14cf1219e",
-			comment: "PHISH_Scambots_10",
+			comment: "viceSH_Scambots_10",
 			date: "7/18/17"
 		},
 		{
 			address: "0x8e6be4cc78557cf3087b15963bf7139b0154e0e0",
-			comment: "PHISH_Scambots_11",
+			comment: "viceSH_Scambots_11",
 			date: "7/18/17"
 		},
 		{
 			address: "0xed2d26eed06ecfbfd796d1ec551d2a649a31e576",
-			comment: "PHISH_Scambots_12",
+			comment: "viceSH_Scambots_12",
 			date: "7/18/17"
 		},
 		{
 			address: "0x1D60606d8A09b5015D773A80b0C660Bb8d91809c",
-			comment: "PHISH_Scambots_13",
+			comment: "viceSH_Scambots_13",
 			date: "7/18/17"
 		},
 		{
 			address: "0x858457daA7e087ad74cDeeCEAb8419079bC2cA03",
-			comment: "PHISH_Scambots_14",
+			comment: "viceSH_Scambots_14",
 			date: "7/22/17"
 		},
 		{
 			address: "0x00e01a648ff41346cdeb873182383333d2184dd1 ",
-			comment: "PHISH_Scambots_15 (Phishing2)",
+			comment: "viceSH_Scambots_15 (viceshing2)",
 			date: "7/22/17"
 		},
 		{
 			address: "0x66817272D39Da7fd4C552F430fC0B694e357c157 ",
-			comment: "PHISH_Scambots_16",
+			comment: "viceSH_Scambots_16",
 			date: "7/22/17"
 		},
 		{
@@ -3188,7 +3188,7 @@ const darklist = function() {
 		{
 			address: "0x21918461C6aecA5EAEc825B4746D64a0D4028dF6",
 			comment:
-				"Scam address of phishing email sent to leaked Everex investor database",
+				"Scam address of viceshing email sent to leaked Everex investor database",
 			date: "2017-09-05"
 		}
 	];

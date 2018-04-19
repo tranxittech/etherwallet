@@ -3,18 +3,18 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>ViceCoinWallet.com</title>
-<meta property="og:title" content="ViceCoinWallet.com: Your Key to Ethereum">
-<meta property="og:site_name" content="ViceCoinWallet.com: Your Key to Ethereum">
-<meta name="twitter:title" content="ViceCoinWallet.com: Your Key to Ethereum">
-<meta name="apple-mobile-web-app-title" content="ViceCoinWallet.com: Your Key to Ethereum">
-<link href="https://www.ViceCoinWallet.com" rel="canonical">
-<meta content="https://www.ViceCoinWallet.com" property="og:url">
-<meta content="https://www.ViceCoinWallet.com" name="twitter:url">
+<title>phicoinwallet.com</title>
+<meta property="og:title" content="phicoinwallet.com: Your Key to Ethereum">
+<meta property="og:site_name" content="phicoinwallet.com: Your Key to Ethereum">
+<meta name="twitter:title" content="phicoinwallet.com: Your Key to Ethereum">
+<meta name="apple-mobile-web-app-title" content="phicoinwallet.com: Your Key to Ethereum">
+<link href="https://www.phicoinwallet.com" rel="canonical">
+<meta content="https://www.phicoinwallet.com" property="og:url">
+<meta content="https://www.phicoinwallet.com" name="twitter:url">
 <link rel="stylesheet" href="css/etherwallet-master.min.css">
 <script type="text/javascript" src="js/etherwallet-static.min.js"></script>
 <script type="text/javascript" src="js/etherwallet-master.js"></script>
-<meta name="description" content="ViceCoinWallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.">
+<meta name="description" content="phicoinwallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.">
 <meta property="og:description"  content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="twitter:description" content="Free, open-source, client-side Ethereum wallet. Enabling you to interact with the blockchain easily & securely.">
 <meta name="robots" content="index,follow">
@@ -26,13 +26,13 @@
 <link href="images/fav/manifest.json" rel="manifest">
 <link href="images/fav/safari-pinned-tab.svg" rel="mask-icon" color="#2f99b0">
 <link href="images/fav/apple-touch-icon.png" rel="shortcut icon">
-<meta name="apple-mobile-web-app-title" content="ViceCoinWallet &middot; Your Key to Ethereum">
-<meta name="application-name" content="ViceCoinWallet">
+<meta name="apple-mobile-web-app-title" content="phicoinwallet &middot; Your Key to Ethereum">
+<meta name="application-name" content="phicoinwallet">
 <meta name="msapplication-config" content="images/fav/browserconfig.xml">
 <meta name="theme-color" content="#1d6986">
 <meta name="apple-mobile-web-app-status-bar-style" content="#1d6986">
-<meta property="og:url" content="https://www.ViceCoinWallet.com" />
-<meta property="og:title" content="ViceCoinWallet.com  &middot; Your Key to Ethereum" />
+<meta property="og:url" content="https://www.phicoinwallet.com" />
+<meta property="og:title" content="phicoinwallet.com  &middot; Your Key to Ethereum" />
 <meta property="og:type" content="website">
 <meta property="og:image" content="/images/myetherwallet-logo-banner.png" />
 <meta property="og:image" content="/images/myetherwallet-logo.png" />
@@ -46,27 +46,27 @@
 {
 "@context": "http://schema.org",
 "@type" : "Organization",
-"name" : "vicecoinwallet",
-"legalName" : "vicecoinwallet LLC",
-"url" : "https://www.vicecoinwallet.com/",
+"name" : "phicoinwallet",
+"legalName" : "phicoinwallet LLC",
+"url" : "https://www.phicoinwallet.com/",
 "contactPoint" : [{
   "@type" : "ContactPoint",
-  "email" : "support@vicecoinwallet.com",
-  "url"   : "https://vicecoinwallet.com",
+  "email" : "support@phicoinwallet.com",
+  "url"   : "https://phicoinwallet.com",
   "contactType" : "customer service"
 }],
-"logo" : "https://www.vicecoinwallet.com/images/vicecoinwallet-logo.png",
-"description": "vicecoinwallet.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
+"logo" : "https://www.phicoinwallet.com/images/phicoinwallet-logo.png",
+"description": "phicoinwallet.com is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely.",
 "sameAs" : [
-  "https://www.vicecoinwallet.com/",
-  "https://chrome.google.com/webstore/detail/vicecoinwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm",
-  "https://www.facebook.com/vicecoinwallet/",
-  "https://twitter.com/vicecoinwallet",
-  "https://medium.com/@vicecoinwallet",
-  "https://vicecoinwallet.github.io/knowledge-base/",
+  "https://www.phicoinwallet.com/",
+  "https://chrome.google.com/webstore/detail/phicoinwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm",
+  "https://www.facebook.com/phicoinwallet/",
+  "https://twitter.com/phicoinwallet",
+  "https://medium.com/@phicoinwallet",
+  "https://phicoinwallet.github.io/knowledge-base/",
   "https://github.com/kvhnuke/etherwallet",
-  "https://github.com/vicecoinwallet",
-  "https://kvhnuke.github.io/etherwallet/","https://vicecoinwallet.slack.com/"
+  "https://github.com/phicoinwallet",
+  "https://kvhnuke.github.io/etherwallet/","https://phicoinwallet.slack.com/"
 ]
 }
 </script>
@@ -78,14 +78,14 @@
 @@if (site === 'mew' ) {
   <div class="small announcement annoucement-danger">
     <div class="container">
-      DON'T GET PHISHED, please! 🎣 Thank you! 🤗
+      DON'T GET viceSHED, please! 🎣 Thank you! 🤗
       <br />
-      1. BOOKMARK <a href="https://www.ViceCoinWallet.com"> VICECOINWALLET.COM </a>
+      1. BOOKMARK <a href="https://www.phicoinwallet.com"> phicoinwallet.COM </a>
       <span class="hidden-xs">
         &nbsp;&nbsp;&nbsp;&nbsp;
         2. INSTALL <a href="https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn" target="_blank" rel="noopener noreferrer">EAL</a>
         or
-        <a href="https://ViceCoinWallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html" target="_blank" rel="noopener noreferrer">MetaMask</a>
+        <a href="https://phicoinwallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html" target="_blank" rel="noopener noreferrer">MetaMask</a>
         or
         <a href="https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige" target="_blank" rel="noopener noreferrer">Cryptonite</a>
       </span>

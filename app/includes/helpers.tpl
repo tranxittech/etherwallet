@@ -321,7 +321,7 @@
   <h1>
     "SHA3" (Keccak-256) It!
     <small>
-      <a href="https://ethereum.stackexchange.com/questions/550/which-cryptographic-hash-function-does-ethereum-use"
+      <a href="https://ethereum.stackexchange.com/questions/550/which-cryptogravicec-hash-function-does-ethereum-use"
          target="_blank"
          rel="noopener noreferrer">
           yooo... sha3 !== Keccak-256?!

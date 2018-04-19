@@ -10,7 +10,7 @@
         <article class="onboarding__modal" ng-show="showOnboardSlide==1">
           <h3 class="onboarding__title">
             <span translate="ONBOARD_welcome_title">
-              Welcome to Welcome to Welcome to ViceCoinWallet.com
+              Welcome to Welcome to Welcome to phicoinwallet.com
             </span>
             <br />
             <small translate="ONBOARD_welcome_content__3">
@@ -28,14 +28,14 @@
                 </span>
               </p>
               <p class="alert-danger--outline" translate="ONBOARD_welcome_content__8">
-                We cannot recover your funds or freeze your account if you visit a phishing site or lose your private key.
+                We cannot recover your funds or freeze your account if you visit a viceshing site or lose your private key.
               </p>
               <h5 translate="ONBOARD_welcome_content__4">
                 What is MEW?
               </h5>
               <ul>
                 <li translate="ONBOARD_welcome_content__5">
-                  ViceCoinWallet is a free, open-source, client-side interface.
+                  phicoinwallet is a free, open-source, client-side interface.
                 </li>
                 <li translate="ONBOARD_welcome_content__6">
                   We allow you to interact directly with the blockchain while remaining in full control of your keys &amp; your funds.
@@ -53,7 +53,7 @@
           <div class="onboarding__buttons text-center">
             <a ng-click="setOnboardStatus(2)" class="btn btn-primary">
               <span translate="ONBOARD_bank_title">
-                Vicecoinwallet is not a Bank
+                phicoinwallet is not a Bank
               </span>
             </a>
           </div>
@@ -62,7 +62,7 @@
 
         <article class="onboarding__modal" ng-show="showOnboardSlide==2">
           <h3 class="onboarding__title" translate="ONBOARD_bank_title">
-            Vicecoinwallet is not a Bank
+            phicoinwallet is not a Bank
           </h3>
           <section class="row row--flex">
             <div class="col-xs-12 col-sm-4 onboarding__image">
@@ -96,7 +96,7 @@
             </a>
             <a ng-click="setOnboardStatus(3)" class="btn btn-primary">
               <span translate="ONBOARD_interface_title">
-                ViceCoinWallet is an Interface
+                phicoinwallet is an Interface
               </span>
             </a>
           </div>
@@ -105,7 +105,7 @@
 
         <article class="onboarding__modal" ng-show="showOnboardSlide==3">
           <h3 class="onboarding__title" translate="ONBOARD_interface_title">
-            ViceCoinWallet is an Interface
+            phicoinwallet is an Interface
           </h3>
           <section class="row row--flex">
             <div class="col-xs-12 col-sm-4 onboarding__image">
@@ -114,7 +114,7 @@
             <div class="col-xs-12 col-sm-8 onboarding__content">
               <ul>
                 <li translate="ONBOARD_interface_content__1">
-                  When you create an account here, you are generating an cryptographic set of numbers: your private key and your public key (address).
+                  When you create an account here, you are generating an cryptogravicec set of numbers: your private key and your public key (address).
                 </li>
                 <li translate="ONBOARD_interface_content__2">
                   The handling of your keys happens entirely on your computer, inside your browser.
@@ -174,10 +174,10 @@
                   It is stored and maintained by thousands of people (miners) across the globe who have special computers.
                 </li>
                 <li translate="ONBOARD_blockchain_content__4">
-                  It is made up of all the individual transactions sent from ViceCoinWallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.
+                  It is made up of all the individual transactions sent from phicoinwallet, MetaMask, Exodus, Mist, Geth, Parity, and everywhere else.
                 </li>
                 <li translate="ONBOARD_blockchain_content__5">
-                  When you see your balance on Welcome to ViceCoinWallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.
+                  When you see your balance on Welcome to phicoinwallet.com or view your transactions on [etherscan.io](https://etherscan.io), you are seeing data on the blockchain, not in our personal systems.
                 </li>
                 <li translate="ONBOARD_blockchain_content__6">
                    Again: <strong>we are not a bank</strong>.
@@ -243,7 +243,7 @@
                   If lose your private key or password, no one can recover it.
                 </li>
                 <li translate="ONBOARD_why_content__10">
-                  If you enter your private key on a phishing website, you will have **all your funds taken**.
+                  If you enter your private key on a viceshing website, you will have **all your funds taken**.
                 </li>
               </ul>
             </div>
@@ -265,7 +265,7 @@
 
         <article class="onboarding__modal" ng-show="showOnboardSlide==6">
           <h3 class="onboarding__title" translate="ONBOARD_whymew_title">
-            If ViceCoinWallet can't do those things, what's the point?
+            If phicoinwallet can't do those things, what's the point?
           </h3>
           <section class="row row--flex">
             <div class="col-xs-12 col-sm-4 onboarding__image">
@@ -289,7 +289,7 @@
                   If you don't like the sound of this, consider using [Coinbase](https://www.coinbase.com/) or [Blockchain.info](https://blockchain.info/wallet/#/signup). They have more familiar accounts with usernames &amp; passwords.
                 </li>
                 <li translate="ONBOARD_whymew_content__6">
-                  If you are scared but want to use MEW, [get a hardware wallet](https://ViceCoinWallet.github.io/knowledge-base/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.
+                  If you are scared but want to use MEW, [get a hardware wallet](https://phicoinwallet.github.io/knowledge-base/hardware-wallets/hardware-wallet-recommendations.html)! These keep your keys secure.
                 </li>
               </ul>
             </div>
@@ -311,22 +311,22 @@
 
         <article class="onboarding__modal" ng-show="showOnboardSlide==7">
           <h3 class="onboarding__title" translate="ONBOARD_secure_1_title">
-            How To Protect Yourself from Phishers
+            How To Protect Yourself from viceshers
           </h3>
           <p translate="ONBOARD_secure_1_content__1">
-            Phishers send you a message with a link to a website that looks just like ViceCoinWallet, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.
+            viceshers send you a message with a link to a website that looks just like phicoinwallet, EtherDelta, Paypal, or your bank, but is not the real website. They steal your information and then steal your money.
           </p>
           <section class="row row--flex">
             <div class="col-xs-12 col-sm-8 onboarding__content">
               <ul>
                 <li translate="ONBOARD_secure_1_content__2">
-                  Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) or the [ViceCoinWallet Chrome Extension](https://chrome.google.com/webstore/detail/ViceCoinWallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm) to block malicious websites.
+                  Install [EAL](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn) or [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) or [Cryptonite by Metacert](https://chrome.google.com/webstore/detail/cryptonite-by-metacert/keghdcpemohlojlglbiegihkljkgnige) or the [phicoinwallet Chrome Extension](https://chrome.google.com/webstore/detail/phicoinwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm) to block malicious websites.
                 </li>
                 <li translate="ONBOARD_secure_1_content__3">
-                  Always check the URL: `https://www.Welcome to ViceCoinWallet.com`.
+                  Always check the URL: `https://www.Welcome to phicoinwallet.com`.
                 </li>
                 <li translate="ONBOARD_secure_1_content__4">
-                  Always make sure the URL bar has `ViceCoinWallet LLC` in green.
+                  Always make sure the URL bar has `phicoinwallet LLC` in green.
                 </li>
                 <li translate="ONBOARD_secure_1_content__5">
                   Do not trust messages or links sent to you randomly via email, Slack, Reddit, Twitter, etc.
@@ -390,7 +390,7 @@
           <div class="onboarding__buttons">
             <a ng-click="setOnboardStatus(7)" class="btn btn-default">
               <span translate="ONBOARD_secure_3_title__alt">
-                Phuck Phishers
+                Phuck viceshers
               </span>
             </a>
             <a ng-click="setOnboardStatus(9)" class="btn btn-primary">
@@ -436,7 +436,7 @@
             </div>
           </section>
           <h5 class="text-center" translate="ONBOARD_secure_3_content__6">
-            [Even more Security Tips!](https://ViceCoinWallet.github.io/knowledge-base/getting-started/protecting-yourself-and-your-funds.html)
+            [Even more Security Tips!](https://phicoinwallet.github.io/knowledge-base/getting-started/protecting-yourself-and-your-funds.html)
           </h5>
           <div class="onboarding__buttons">
             <a ng-click="setOnboardStatus(8)" class="btn btn-default">
@@ -468,43 +468,43 @@
             <div class="col-xs-12 col-sm-7">
               <ul>
                 <li>
-                  <a href="https://ViceCoinWallet.github.io/knowledge-base/hardware-wallets/hardware-wallet-recommendations.html"
+                  <a href="https://phicoinwallet.github.io/knowledge-base/hardware-wallets/hardware-wallet-recommendations.html"
                      target="_blank" rel="noopener noreferrer" class="strong" translate="ONBOARD_final_content__2">
                       Get a hardware wallet
                   </a>
                 </li>
                 <li>
-                  <a href="https://ViceCoinWallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html"
+                  <a href="https://phicoinwallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html"
                      target="_blank" rel="noopener noreferrer" class="strong" translate="ONBOARD_final_content__3">
                     How to Set up MEW + MetaMask
                   </a>
                 </li>
                 <li>
-                  <a href="https://ViceCoinWallet.github.io/knowledge-base/offline/running-ViceCoinWallet-locally.html"
+                  <a href="https://phicoinwallet.github.io/knowledge-base/offline/running-phicoinwallet-locally.html"
                      target="_blank" rel="noopener noreferrer" class="strong" translate="ONBOARD_final_content__4">
                     How to Run MEW Offline / Locally
                   </a>
                 </li>
                 <li>
-                  <a href="https://ViceCoinWallet.github.io/knowledge-base/migration/moving-from-private-key-to-ledger-hardware-wallet.html"
+                  <a href="https://phicoinwallet.github.io/knowledge-base/migration/moving-from-private-key-to-ledger-hardware-wallet.html"
                      target="_blank" rel="noopener noreferrer" class="strong" translate="ONBOARD_final_content__5">
                     How to Send via Ledger hardware wallet
                   </a>
                 </li>
                 <li>
-                  <a href="https://ViceCoinWallet.github.io/knowledge-base/hardware-wallets/trezor-sending-to-trezor-device.html"
+                  <a href="https://phicoinwallet.github.io/knowledge-base/hardware-wallets/trezor-sending-to-trezor-device.html"
                      target="_blank" rel="noopener noreferrer" class="strong" translate="ONBOARD_final_content__6">
                     How to Send via TREZOR hardware wallet
                   </a>
                 </li>
                 <li>
-                  <a href="https://ViceCoinWallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html"
+                  <a href="https://phicoinwallet.github.io/knowledge-base/migration/moving-from-private-key-to-metamask.html"
                      target="_blank" rel="noopener noreferrer" class="strong" translate="ONBOARD_final_content__7">
                        How to Send via MetaMask
                   </a>
                 </li>
                 <li>
-                  <a href="https://ViceCoinWallet.github.io/knowledge-base/"
+                  <a href="https://phicoinwallet.github.io/knowledge-base/"
                      target="_blank" rel="noopener noreferrer" class="strong" translate="ONBOARD_final_content__8">
                        Learn More or Contact Us
                   </a>

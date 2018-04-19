@@ -234,7 +234,7 @@ var tabsCtrl = function($scope, globalService, $translate, $sce) {
     $scope.setErrorMsgLanguage = function() {
         for (var i = 0; i < globalFuncs.errorMsgs.length; i++) $scope.setLanguageVal('ERROR_' + i, 'errorMsgs', i);
         for (var i = 0; i < globalFuncs.successMsgs.length; i++) $scope.setLanguageVal('SUCCESS_' + (i + 1), 'successMsgs', i);
-        for (var i = 0; i < globalFuncs.phishingWarning.length; i++) $scope.setLanguageVal('PHISHING_Warning_' + (i + 1), 'phishingWarning', i);
+        for (var i = 0; i < globalFuncs.viceshingWarning.length; i++) $scope.setLanguageVal('viceSHING_Warning_' + (i + 1), 'viceshingWarning', i);
     }
 
     $scope.setGethErrMsgLanguage = function() {

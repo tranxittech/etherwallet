@@ -21,12 +21,12 @@ var addressFieldDrtv = function($compile, darkList) {
             var checkDarkList = function(value) {
               for(let i = 0; i < Darklist.length; i++) {
                 if(value.length > 0 && value.toLowerCase() === Darklist[i].address.toLowerCase()) {
-                  scope.phishing.msg = Darklist[i].comment !== '' ? `${globalFuncs.phishingWarning[0] + Darklist[i].comment}` : `${globalFuncs.phishingWarning[1]}`;
-                  scope.phishing.error = true;
+                  scope.viceshing.msg = Darklist[i].comment !== '' ? `${globalFuncs.viceshingWarning[0] + Darklist[i].comment}` : `${globalFuncs.viceshingWarning[1]}`;
+                  scope.viceshing.error = true;
                   return;
                 } else {
-                  scope.phishing.msg = '';
-                  scope.phishing.error = false;
+                  scope.viceshing.msg = '';
+                  scope.viceshing.error = false;
                 }
               }
             }
@@ -37,7 +37,7 @@ var addressFieldDrtv = function($compile, darkList) {
                 readOnly: false
             }
 
-            scope.phishing = {
+            scope.viceshing = {
               msg: '',
               error: false
             }
@@ -50,8 +50,8 @@ var addressFieldDrtv = function($compile, darkList) {
                 <p class="ens-response" ng-show="addressDrtv.showDerivedAddress">
                   <span class="mono ng-binding"> ↳ {{addressDrtv.derivedAddress}} </span>
                 </p>
-                <p class="flagged-address" ng-show="phishing.error">
-                  <span class="mono ng-binding"> {{phishing.msg}} </span>
+                <p class="flagged-address" ng-show="viceshing.error">
+                  <span class="mono ng-binding"> {{viceshing.msg}} </span>
                 </p>
               </div>
               <div class="col-xs-1 address-identicon-container">
@@ -89,8 +89,8 @@ var addressFieldDrtv = function($compile, darkList) {
               } else {
                 setValue('');
                 scope.addressDrtv.showDerivedAddress = false;
-                scope.phishing.msg = '';
-                scope.phishing.error = false;
+                scope.viceshing.msg = '';
+                scope.viceshing.error = false;
               }
 
             });

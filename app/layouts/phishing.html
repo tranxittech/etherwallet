@@ -1,13 +1,13 @@
 @@include( '../includes/header.tpl', { "site": "mew" } )
 <section class="container" style="height: 60%; text-align: center;">
   <h1>You've been redirected to safety!</h1>
-  <div id="phishingMsg">
+  <div id="viceshingMsg">
   </div>
 </section>
 <script>
 (function() {
-	const url = globalFuncs.stripTags(window.location.search.replace("?phishing-address=", ""));
-	const body = document.getElementById("phishingMsg");
+	const url = globalFuncs.stripTags(window.location.search.replace("?viceshing-address=", ""));
+	const body = document.getElementById("viceshingMsg");
 	const fragment = document.createDocumentFragment();
 	const newP1 = document.createElement("p");
 	const newP2 = document.createElement("p");

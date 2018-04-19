@@ -40,14 +40,14 @@
       <p translate="x_PasswordDesc"></p>
       <div class="text-center">
         <strong>
-          <a href="https://vicecoinwallet.github.io/knowledge-base/getting-started/creating-a-new-wallet-on-vicecoinwallet.html"
+          <a href="https://phicoinwallet.github.io/knowledge-base/getting-started/creating-a-new-wallet-on-phicoinwallet.html"
              target="_blank"
              rel="noopener noreferrer"
              translate="GEN_Help_5">
                How to Create a Wallet
           </a>
           &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-          <a href="https://vicecoinwallet.github.io/knowledge-base/getting-started/getting-started-new.html"
+          <a href="https://phicoinwallet.github.io/knowledge-base/getting-started/getting-started-new.html"
              target="_blank"
              rel="noopener noreferrer"
              translate="GEN_Help_6">
@@ -96,7 +96,7 @@
               MetaMask Extension
             </a>.
             <span translate="GEN_Help_MetaMask">
-              So easy! Keys stay in MetaMask, not on a phishing site! Try it today.
+              So easy! Keys stay in MetaMask, not on a viceshing site! Try it today.
             </span>
           </p>
         </li>
@@ -172,7 +172,7 @@
           **Do not lose it!** It cannot be recovered if you lose it.
         </p>
         <p class="GEN_Warning_2">
-          **Do not share it!** Your funds will be stolen if you use this file on a malicious/phishing site.
+          **Do not share it!** Your funds will be stolen if you use this file on a malicious/viceshing site.
         </p>
         <p class="GEN_Warning_3">
           **Make a backup!** Secure it like the millions of dollars it may one day be worth.
@@ -212,21 +212,21 @@
       </h2>
       <ul>
         <li translate="GEN_Help_12">
-          Use it to unlock your wallet via vicecoinwallet (or Mist, Geth, Parity &amp; other wallet clients.)
+          Use it to unlock your wallet via phicoinwallet (or Mist, Geth, Parity &amp; other wallet clients.)
         </li>
       </ul>
 
       <h2 translate="GEN_Help_4">Guides &amp; FAQ</h2>
       <ul>
         <li>
-          <a href="https://vicecoinwallet.github.io/knowledge-base/getting-started/backing-up-your-new-wallet.html" target="_blank" rel="noopener noreferrer">
+          <a href="https://phicoinwallet.github.io/knowledge-base/getting-started/backing-up-your-new-wallet.html" target="_blank" rel="noopener noreferrer">
             <strong translate="GEN_Help_13">
               How to Back Up Your Keystore File
             </strong>
           </a>
         </li>
         <li>
-          <a href="https://vicecoinwallet.github.io/knowledge-base/private-keys-passwords/difference-beween-private-key-and-keystore-file.html" target="_blank" rel="noopener noreferrer">
+          <a href="https://phicoinwallet.github.io/knowledge-base/private-keys-passwords/difference-beween-private-key-and-keystore-file.html" target="_blank" rel="noopener noreferrer">
             <strong translate="GEN_Help_14">
               What are these Different Formats?
             </strong>
@@ -270,7 +270,7 @@
           **Do not lose it!** It cannot be recovered if you lose it.
         </p>
         <p>
-          **Do not share it!** Your funds will be stolen if you use this file on a malicious/phishing site.
+          **Do not share it!** Your funds will be stolen if you use this file on a malicious/viceshing site.
         </p>
         <p>
           **Make a backup!** Secure it like the millions of dollars it may one day be worth.
@@ -290,15 +290,15 @@
         Guides &amp; FAQ
       </h2>
       <ul>
-        <li><a href="https://vicecoinwallet.github.io/knowledge-base/getting-started/backing-up-your-new-wallet.html" target="_blank" rel="noopener noreferrer">
+        <li><a href="https://phicoinwallet.github.io/knowledge-base/getting-started/backing-up-your-new-wallet.html" target="_blank" rel="noopener noreferrer">
           <strong translate="HELP_2a_Title">
             How to Save & Backup Your Wallet.
           </strong>
         </a></li>
-        <li><a href="https://vicecoinwallet.github.io/knowledge-base/getting-started/protecting-yourself-and-your-funds.html" target="_blank" rel="noopener noreferrer">
+        <li><a href="https://phicoinwallet.github.io/knowledge-base/getting-started/protecting-yourself-and-your-funds.html" target="_blank" rel="noopener noreferrer">
           <strong translate="GEN_Help_15">Preventing loss &amp; theft of your funds.</strong>
         </a></li>
-        <li><a href="https://vicecoinwallet.github.io/knowledge-base/private-keys-passwords/difference-beween-private-key-and-keystore-file.html" target="_blank" rel="noopener noreferrer">
+        <li><a href="https://phicoinwallet.github.io/knowledge-base/private-keys-passwords/difference-beween-private-key-and-keystore-file.html" target="_blank" rel="noopener noreferrer">
           <strong translate="GEN_Help_16">What are these Different Formats?</strong>
         </a></li>
       </ul>
@@ -314,7 +314,7 @@
           In case you ever forget your password.
         </li>
         <li>
-          <a href="https://vicecoinwallet.github.io/knowledge-base/offline/ethereum-cold-storage-with-vicecoinwallet.html" target="_blank" rel="noopener noreferrer" translate="GEN_Help_20">Cold Storage</a>
+          <a href="https://phicoinwallet.github.io/knowledge-base/offline/ethereum-cold-storage-with-phicoinwallet.html" target="_blank" rel="noopener noreferrer" translate="GEN_Help_20">Cold Storage</a>
         </li>
       </ul>
 

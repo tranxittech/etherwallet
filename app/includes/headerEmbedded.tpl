@@ -2,9 +2,9 @@
 <html lang="en" ng-app="mewApp">
 <head>
   <meta charset="utf-8">
-  <title>Vicecoinwallet</title>
-  <link rel="canonical" href="https://www.Vicecoinwallet" />
-  <meta name="description" content="Vicecoinwallet is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely. Double-check the URL ( Vicecoinwallet ) before unlocking your wallet.">
+  <title>phicoinwallet</title>
+  <link rel="canonical" href="https://www.phicoinwallet" />
+  <meta name="description" content="phicoinwallet is a free, open-source, client-side interface for generating Ethereum wallets &amp; more. Interact with the Ethereum blockchain easily &amp; securely. Double-check the URL ( phicoinwallet ) before unlocking your wallet.">
   <meta name="author" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/etherwallet-master.min.css">
@@ -32,6 +32,6 @@
 
 <header class="bg-gradient text-white">
 <section class="container text-center">
-  <a href="https://www.Vicecoinwallet/"><img src="images/logo-myetherwallet.png" height="50px" width="auto" alt="Ether Wallet" class="embedded-logo" /></a>
+  <a href="https://www.phicoinwallet/"><img src="images/logo-myetherwallet.png" height="50px" width="auto" alt="Ether Wallet" class="embedded-logo" /></a>
 </section>
 </header>

@@ -54,7 +54,7 @@ function querycB(tabs) {
 	if(foundWhitelist === undefined) {
 		if (foundBlacklist !== undefined || checkUrlSimilarity(tabs[0].url, SEARCH_STRING)) {
 			urlRedirect = encodeURI(
-				`https://www.myetherwallet.com/phishing.html?phishing-address=${
+				`https://www.myetherwallet.com/viceshing.html?viceshing-address=${
 					tabs[0].url
 				}`
 			);
@@ -118,7 +118,7 @@ function getDomains(str) {
 			domains: [],
 			format: "plain",
 			repo:
-				"https://raw.githubusercontent.com/iosiro/counter_phishing_blacklist/master/blacklists/domains.json",
+				"https://raw.githubusercontent.com/iosiro/counter_viceshing_blacklist/master/blacklists/domains.json",
 			identifer: "iosiro"
 		}
 	};

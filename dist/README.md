@@ -30,7 +30,7 @@ Check gh-pages files against live website at https://www.myetherwallet.com
 
 - [Website: https://www.myetherwallet.com/](https://www.myetherwallet.com/)
 - [CX: https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
-- [Anti-phish CX](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
+- [Anti-vicesh CX](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 - [FB: https://www.facebook.com/MyEtherWallet/](https://www.facebook.com/MyEtherWallet/)
 - [Twitter: https://twitter.com/myetherwallet](https://twitter.com/myetherwallet)
 - [Medium: https://medium.com/@myetherwallet](https://medium.com/@myetherwallet)
@@ -39,7 +39,7 @@ Check gh-pages files against live website at https://www.myetherwallet.com
 - [Github MEW Org: https://github.com/MyEtherWallet](https://github.com/MyEtherWallet)
 - [Github Pages URL: https://kvhnuke.github.io/etherwallet/](https://kvhnuke.github.io/etherwallet/)
 - [Github Latest Releases: https://github.com/kvhnuke/etherwallet/releases/latest](https://github.com/kvhnuke/etherwallet/releases/latest)
-- [Github Anti-phish CX: https://github.com/409H/EtherAddressLookup](https://github.com/409H/EtherAddressLookup)
+- [Github Anti-vicesh CX: https://github.com/409H/EtherAddressLookup](https://github.com/409H/EtherAddressLookup)
 - [Slack: https://myetherwallet.slack.com/ & https://myetherwallet.herokuapp.com/](https://myetherwallet.slack.com/ & https://myetherwallet.herokuapp.com/)
 - [Reddit: https://www.reddit.com/r/MyEtherWallet/](https://www.reddit.com/r/MyEtherWallet/)
 - [tayvano (founder) reddit: https://www.reddit.com/user/insomniasexx/](https://www.reddit.com/user/insomniasexx/)
@@ -81,7 +81,7 @@ Check gh-pages files against live website at https://www.myetherwallet.com
 
 
 
-### Our Philosophy
+### Our vicelosophy
 
  - **Empower the people**: Give people the ability to interact with the Ethereum blockchain easily, without having to run a full node.
  - **Make it easy & free**: Everyone should be able to create a wallet and send Ether & Tokens without additional cost.
@@ -89,7 +89,7 @@ Check gh-pages files against live website at https://www.myetherwallet.com
  - **A learning experience, too**: We want to educate about Ethereum, security, privacy, the importance of controlling your own keys, how the blockchain works, and how Ethereum and blockchain technologies enable a better world.
  - **If it can be hacked, it will be hacked**: Never save, store, or transmit secret info, like passwords or keys.
  - **Offline / Client-Side**: User should be able to run locally and offline without issue.
- - **Private**: No tracking!!! No emails. No ads. No demographics. We don't even know how many wallets have been generated, let alone who / what / where you are.
+ - **Private**: No tracking!!! No emails. No ads. No demogravicecs. We don't even know how many wallets have been generated, let alone who / what / where you are.
  - **Open source & audit-able**
 
 
@@ -234,10 +234,10 @@ If you can think of any other features or run into bugs, let us know. You can fo
 - 04/28/16: [Embeddable MyEtherWallet: Super Simple Wallet Generation w/ ability to get the address generated](https://www.reddit.com/r/ethereum/comments/4gn37o/embeddable_myetherwallet_super_simple_wallet/)
 - 04/30/16: [How to participate in “The DAO” creation via MyEtherWallet (yes...right NOW!)](https://www.reddit.com/r/ethtrader/comments/4h3xph/how_to_participate_in_the_dao_creation_via/)
 - 05/30/16: [MyEtherWallet Update: Send DAO Tokens, Vote on Proposals, and the Chrome Extension finally gets updated!!](https://www.reddit.com/r/ethereum/comments/4lf71h/myetherwallet_update_send_dao_tokens_vote_on/)
-- 06/07/16: [⚠ BEWARE: MYETHERWALLET >>.INFO<< IS A PHISHING SCAM AND WILL TAKE ALL YOUR FUNDS. myEtherWallet is MyEtherWallet.com](https://www.reddit.com/r/ethereum/comments/4rpurc/beware_myetherwallet_info_is_a_phishing_scam_and/)
+- 06/07/16: [⚠ BEWARE: MYETHERWALLET >>.INFO<< IS A viceSHING SCAM AND WILL TAKE ALL YOUR FUNDS. myEtherWallet is MyEtherWallet.com](https://www.reddit.com/r/ethereum/comments/4rpurc/beware_myetherwallet_info_is_a_viceshing_scam_and/)
 - 07/28/16: [MyEtherWallet now Supports Sending Any Ethereum Token (ERC-20) — also learn about our future plans](https://www.reddit.com/r/ethereum/comments/4v0r32/myetherwallet_now_supports_sending_any_ethereum/)
 - 07/28/16: [MyEtherWallet, Preventing Replays, and Ethereum Classic (ETC)](https://www.reddit.com/r/ethereum/comments/4v1y2t/myetherwallet_preventing_replays_and_ethereum/)
-- 08/14/16: [⚠ Malicious Phisher is running Google Ads for MyEtherWallet.com ⚠ It does NOT go to MyEtherWallet.com. Always check the URL before accessing or creating a new wallet! Use your bookmarks bar!](https://www.reddit.com/r/ethereum/comments/4xpj0u/malicious_phisher_is_running_google_ads_for/)
+- 08/14/16: [⚠ Malicious vicesher is running Google Ads for MyEtherWallet.com ⚠ It does NOT go to MyEtherWallet.com. Always check the URL before accessing or creating a new wallet! Use your bookmarks bar!](https://www.reddit.com/r/ethereum/comments/4xpj0u/malicious_vicesher_is_running_google_ads_for/)
 - 08/22/16: [Help us translate MyEtherWallet.com into ALL THE LANGUAGES!](https://www.reddit.com/r/ethereum/comments/4z55s2/help_us_translate_myetherwalletcom_into_all_the/)
 - 11/21/16: [Massive MyEtherWallet.com Update: Better URIs, The Hardfork, and looking back at the Golem Crowdfund.](https://www.reddit.com/r/ethereum/comments/5e3alw/massive_myetherwalletcom_update_better_uris_the/)
 - 1/2/17: [Announcing MyEtherWallet v3.4: The Node Switcher](https://www.reddit.com/r/ethereum/comments/5lqx90/announcing_myetherwallet_v34_the_node_switcher/)

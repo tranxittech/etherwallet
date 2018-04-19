@@ -5,10 +5,10 @@ el.code = 'el';
 el.data = {
 
 GEN_Help_0                      :  'Already have a wallet somewhere?',
-GEN_Help_MetaMask               :  'So easy! Keys stay in MetaMask, not on a phishing site! Try it today.',
+GEN_Help_MetaMask               :  'So easy! Keys stay in MetaMask, not on a viceshing site! Try it today.',
 
 GEN_Warning_1                   :  '**Do not lose it!** It cannot be recovered if you lose it.',
-GEN_Warning_2                   :  '**Do not share it!** Your funds will be stolen if you use this file on a malicious/phishing site.',
+GEN_Warning_2                   :  '**Do not share it!** Your funds will be stolen if you use this file on a malicious/viceshing site.',
 GEN_Warning_3                   :  '**Make a backup!** Secure it like the millions of dollars it may one day be worth.',
 
 GAS_Price_1                     : 'Not So Fast',
@@ -33,7 +33,7 @@ X_HelpfulLinks                  :  'Helpful Links & FAQs',
 X_HelpfulLinks_1                :  'How to Access your Wallet',
 X_HelpfulLinks_2                :  'I lost my private key',
 X_HelpfulLinks_3                :  'My private key opens a different address',
-X_HelpfulLinks_4                :  'Migrating to/from ViceCoinWallet',
+X_HelpfulLinks_4                :  'Migrating to/from phicoinwallet',
 X_Network                       :  'Network', // aka "node" or "chain" - used in the dropdown in header
 X_Network_Custom                :  'Add Custom Network / Node',
 
